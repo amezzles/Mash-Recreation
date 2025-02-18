@@ -22,8 +22,10 @@ public class Counters : MonoBehaviour
 
     public void IncrementSoldiersInHospital()
     {
-        soldiersInHospitalCount++;
+        soldiersInHospitalCount += soldiersInHelicopterCount;
+        soldiersInHelicopterCount = 0;
         UpdateSoldiersInHospitalCounterText();
+        UpdateSoldiersInHelicopterCounterText();    
     }
 
     void UpdateSoldiersInHelicopterCounterText()

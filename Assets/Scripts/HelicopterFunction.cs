@@ -3,7 +3,8 @@ using UnityEngine;
 public class HelicopterFunction : MonoBehaviour
 {
     public GameManager gameManager;
-    private int SoldierCount = 0;
+
+    private int soldiersInHelicopterCount = 0;
 
     void OnCollisionEnter2D(Collision2D collision)
     {
@@ -20,24 +21,24 @@ public class HelicopterFunction : MonoBehaviour
         if (other.CompareTag("Hospital"))
         {
             Debug.Log("Hospital");
-
+            soldiersInHelicopterCount = 0;
+            gameManager.IncrementSoldiersInHospital();
         }
         else if (other.CompareTag("Soldier"))
         {
             Debug.Log("Soldier");
 
-            if (SoldierCount == 3)
+            if (soldiersInHelicopterCount == 3)
             {
                 Debug.Log("Helicopter is full");
                 return;
             }
             else
             {
-                SoldierCount += 1;
+                soldiersInHelicopterCount++;
                 gameManager.IncrementSoldiersInHelicopter();
                 Destroy(other.gameObject);
             }
-                
         }
     }
 }
