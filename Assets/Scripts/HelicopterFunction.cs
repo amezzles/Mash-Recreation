@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class HelicopterFunction : MonoBehaviour
 {
+    public GameManager gameManager;
     private int SoldierCount = 0;
 
     void OnCollisionEnter2D(Collision2D collision)
@@ -19,6 +20,7 @@ public class HelicopterFunction : MonoBehaviour
         if (other.CompareTag("Hospital"))
         {
             Debug.Log("Hospital");
+
         }
         else if (other.CompareTag("Soldier"))
         {
@@ -32,6 +34,7 @@ public class HelicopterFunction : MonoBehaviour
             else
             {
                 SoldierCount += 1;
+                gameManager.IncrementSoldiersInHelicopter();
                 Destroy(other.gameObject);
             }
                 
