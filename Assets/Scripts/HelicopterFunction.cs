@@ -5,6 +5,7 @@ public class HelicopterFunction : MonoBehaviour
     public GameManager gameManager;
 
     private int soldiersInHelicopterCount = 0;
+    private int soldiersDroppedAtHospital = 0;
 
     void OnCollisionEnter2D(Collision2D collision)
     {
@@ -12,6 +13,7 @@ public class HelicopterFunction : MonoBehaviour
         if (collision.gameObject.CompareTag("Tree"))
         {
             Debug.Log("Tree");
+            gameManager.GameOver();
         }
     }
 
@@ -21,8 +23,15 @@ public class HelicopterFunction : MonoBehaviour
         if (other.CompareTag("Hospital"))
         {
             Debug.Log("Hospital");
+            soldiersDroppedAtHospital += soldiersInHelicopterCount;
+
             soldiersInHelicopterCount = 0;
             gameManager.IncrementSoldiersInHospital();
+
+            if (soldiersDroppedAtHospital == gameManager.GetSoldiersInWorld())
+            {
+                gameManager.YouWin();
+            }
         }
         else if (other.CompareTag("Soldier"))
         {
