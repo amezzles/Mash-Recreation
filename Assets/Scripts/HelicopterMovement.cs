@@ -31,6 +31,6 @@ public class HelicopterMovement : MonoBehaviour
     void FixedUpdate()
     {
         // Move the helicopter
-        rb.velocity = moveInput * moveSpeed;
+        rb.linearVelocity = moveInput * moveSpeed;
     }
 }

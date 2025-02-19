@@ -17,6 +17,14 @@ public class GameManager : MonoBehaviour
         }
     }
 
+    void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.R))
+        {
+            ResetGame();
+        }
+    }
+
     public void IncrementSoldiersInHelicopter()
     {
         textManager.IncrementSoldiersInHelicopter();
