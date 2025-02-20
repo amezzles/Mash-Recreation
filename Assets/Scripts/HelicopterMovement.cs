@@ -6,11 +6,13 @@ public class HelicopterMovement : MonoBehaviour
     private Rigidbody2D rb;
     private Vector2 moveInput;
     private GameManager gameManager;
+    private SpriteRenderer spriteRenderer;
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         gameManager = FindFirstObjectByType<GameManager>();
+        spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
     void Update()
@@ -20,6 +22,16 @@ public class HelicopterMovement : MonoBehaviour
             // Get input from arrow keys
             moveInput.x = Input.GetAxis("Horizontal");
             moveInput.y = Input.GetAxis("Vertical");
+
+            //Flipping helicopter facing direction to align with movement direction
+            if (moveInput.x < 0)
+            {
+                spriteRenderer.flipX = true;
+            }
+            else if (moveInput.x > 0)
+            {
+                spriteRenderer.flipX = false;
+            }
         }
         else
         {
