@@ -10,7 +10,8 @@ GameObject:
   m_Component:
   - component: {fileID: 4897013818996979128}
   - component: {fileID: 498905848330594369}
-  - component: {fileID: -8025689979674356008}
+  - component: {fileID: 6362600199844312675}
+  - component: {fileID: 4581390564054222161}
   m_Layer: 0
   m_Name: Hospital
   m_TagString: Hospital
@@ -77,8 +78,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
-  m_Color: {r: 0.9308176, g: 0.43613777, b: 0.77541095, a: 1}
+  m_Sprite: {fileID: -867171867098561829, guid: 2ddb3f4a8799ee24b852f717146e9f13, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -88,8 +89,30 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!61 &-8025689979674356008
-BoxCollider2D:
+--- !u!95 &6362600199844312675
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7742534712993657945}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 122ad47f2a05f464cb096aaf9b6be8d8, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!60 &4581390564054222161
+PolygonCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -126,11 +149,18 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
+    oldSize: {x: 2, y: 1}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1, y: 1}
-  m_EdgeRadius: 0
+  m_Points:
+    m_Paths:
+    - - {x: -0.17951572, y: 0.46337318}
+      - {x: -0.92369413, y: 0.013522834}
+      - {x: -1, y: -0.5}
+      - {x: 1, y: -0.5}
+      - {x: 0.95116425, y: -0.038223624}
+      - {x: 0.21600103, y: 0.45726874}
+  m_UseDelaunayMesh: 0
