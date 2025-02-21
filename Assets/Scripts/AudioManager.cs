@@ -1,4 +1,5 @@
 using UnityEngine;
+using System.Collections;
 
 public class AudioManager : MonoBehaviour
 {
@@ -21,6 +22,13 @@ public class AudioManager : MonoBehaviour
     {
         PlaySound(treeCollision);
         music.mute = true;
+        StartCoroutine(MuteAfterSound(soundEffects, treeCollision.length));
+    }
+
+    private IEnumerator MuteAfterSound(AudioSource audioSource, float delay)
+    {
+        yield return new WaitForSeconds(delay);
+        audioSource.mute = true;
     }
 
     public void PlayHospitalDropOff()
@@ -41,5 +49,7 @@ public class AudioManager : MonoBehaviour
     public void PlayYouWin()
     {
         PlaySound(youWin);
+        music.mute = true;
+        StartCoroutine(MuteAfterSound(soundEffects, youWin.length));
     }
 }

@@ -12,7 +12,6 @@ public class HelicopterFunction : MonoBehaviour
         // Check the tag of the collided object
         if (collision.gameObject.CompareTag("Tree"))
         {
-            Debug.Log("Tree");
             gameManager.GameOver();
         }
     }
@@ -22,7 +21,6 @@ public class HelicopterFunction : MonoBehaviour
         // Check the tag of the trigger object
         if (other.CompareTag("Hospital"))
         {
-            Debug.Log("Hospital");
             soldiersDroppedAtHospital += soldiersInHelicopterCount;
 
             soldiersInHelicopterCount = 0;
@@ -35,11 +33,8 @@ public class HelicopterFunction : MonoBehaviour
         }
         else if (other.CompareTag("Soldier"))
         {
-            Debug.Log("Soldier");
-
             if (soldiersInHelicopterCount == 3)
             {
-                Debug.Log("Helicopter is full");
                 return;
             }
             else

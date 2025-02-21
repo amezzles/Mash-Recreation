@@ -38,7 +38,6 @@ public class HelicopterMovement : MonoBehaviour
         else
         {
             moveInput = Vector2.zero;
-            Debug.Log("Input Disabled");
         }
     }
 

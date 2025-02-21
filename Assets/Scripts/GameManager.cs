@@ -44,8 +44,12 @@ public class GameManager : MonoBehaviour
 
     public void IncrementSoldiersInHospital()
     {
+        if (textManager.GetSoldiersInHelicopterCount() > 0)
+        {
+            audioManager.PlayHospitalDropOff();
+        }
+
         textManager.IncrementSoldiersInHospital();
-        audioManager.PlayHospitalDropOff();
     }
 
     public void GameOver()
