@@ -5,7 +5,9 @@ using System.Collections;
 public class GameManager : MonoBehaviour
 {
     public TextManager textManager;
-    private bool inputEnabled = true; // Flag to control input
+    public GameObject windGustPrefab;
+
+    private bool inputEnabled = true;
 
     private int soldiersInWorld = 5;
 
@@ -15,6 +17,13 @@ public class GameManager : MonoBehaviour
         {
             Debug.LogError("Counters script is not assigned in the GameManager.");
         }
+
+        if (windGustPrefab == null)
+        {
+            Debug.LogError("WindGust prefab is not assigned in the GameManager.");
+        }
+
+        StartCoroutine(SpawnWindGusts());
     }
 
     void Update()
@@ -78,5 +87,20 @@ public class GameManager : MonoBehaviour
     private void EnableInput()
     {
         inputEnabled = true;
+    }
+
+    private IEnumerator SpawnWindGusts()
+    {
+        while (true)
+        {
+            yield return new WaitForSeconds(2.5f);
+
+            
+            Vector2 position = new Vector2(Random.Range(-7f, 7f), Random.Range(-4f, 4f));
+            Vector2 windDirection = new Vector2(Random.Range(-1f, 1f), Random.Range(-1f, 1f));
+
+            // Create and spawn the wind gust
+            WindGust.CreateWindGust(windGustPrefab, position, windDirection);
+        }
     }
 }

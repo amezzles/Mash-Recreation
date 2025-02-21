@@ -43,7 +43,7 @@ public class HelicopterMovement : MonoBehaviour
     void FixedUpdate()
     {
         // Move the helicopter
-        rb.linearVelocity = moveInput * moveSpeed;
+        rb.linearVelocity += moveInput * moveSpeed * Time.fixedDeltaTime;
     }
 
     public void ApplyWindForce(Vector2 force)

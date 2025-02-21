@@ -2,35 +2,48 @@ using UnityEngine;
 
 public class WindGust : MonoBehaviour
 {
-    private Vector2 startingLocation;
-    private float windSpeed = 1f;
+    private float windSpeed = 2f;
     private Vector2 windDirection;
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        startingLocation = new Vector2(Random.Range(-8f, 8f), Random.Range(-4f, 4f));
-        windDirection = new Vector2(Random.Range(-1f, 1f), Random.Range(-1f, 1f)).normalized;
-        transform.position = startingLocation;
+        windSpeed = Random.Range(1f, 3f);
     }
 
-    // Update is called once per frame
     void Update()
     {
-        transform.Translate(windDirection * windSpeed * Time.deltaTime);
+        transform.Translate(Vector3.right * windSpeed * Time.deltaTime, Space.Self);
     }
 
-    public static WindGust CreateWindGust(GameObject windGustPrefab, Vector2 position, Quaternion rotation)
+    public static WindGust CreateWindGust(GameObject windGustPrefab, Vector2 position, Vector2 windDirection)
     {
-        // Create and spawn wind gust object (to be used in GameManager)
+        float angle = Mathf.Atan2(windDirection.y, windDirection.x) * Mathf.Rad2Deg;
+        Quaternion rotation = Quaternion.Euler(0, 0, angle);
         GameObject windGustObject = Instantiate(windGustPrefab, position, rotation);
-        return windGustObject.GetComponent<WindGust>();
+
+        WindGust windGust = windGustObject.GetComponent<WindGust>();
+
+        if (windGust != null)
+        {
+            windGust.SetWindDirection(windDirection);
+        }
+
+        return windGust;
     }
+
+    public void SetWindDirection(Vector2 direction)
+    {
+        windDirection = direction.normalized;
+    }
+
 
     void OnTriggerEnter2D(Collider2D other)
     {
+        Debug.Log("WindGust OnTriggerEnter2D with " + other.name);
+
         if (other.CompareTag("Player"))
         {
+            Debug.Log("Collided with Helicopter");
             HelicopterMovement helicopter = other.GetComponent<HelicopterMovement>();
             if (helicopter != null)
             {
