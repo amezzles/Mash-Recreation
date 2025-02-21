@@ -334,7 +334,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BROWNROCK_Tileset_Buildings_V1_0: -8122523536505894922
+      BROWNROCK_Tileset_Buildings_V1_1: 2206185656018890880
+      BROWNROCK_Tileset_Buildings_V1_2: 6809650053739747980
+      BROWNROCK_Tileset_Buildings_V1_3: -3475518981484852184
+      BROWNROCK_Tileset_Buildings_V1_4: -2919670341133366327
+      BROWNROCK_Tileset_Buildings_V1_5: 5112497052440759516
+      BROWNROCK_Tileset_Buildings_V1_6: -2191635578853257264
+      BROWNROCK_Tileset_Buildings_V1_7: 4005700806986547248
+      BROWNROCK_Tileset_Buildings_V1_8: -9091882036002423957
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
