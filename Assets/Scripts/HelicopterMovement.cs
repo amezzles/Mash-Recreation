@@ -3,6 +3,8 @@ using UnityEngine;
 public class HelicopterMovement : MonoBehaviour
 {
     public float moveSpeed = 1f;
+    public AudioManager audioManager;
+
     private Rigidbody2D rb;
     private Vector2 moveInput;
     private GameManager gameManager;
@@ -49,5 +51,6 @@ public class HelicopterMovement : MonoBehaviour
     public void ApplyWindForce(Vector2 force)
     {
         rb.AddForce(force, ForceMode2D.Impulse);
+        audioManager.PlayWindGust();
     }
 }

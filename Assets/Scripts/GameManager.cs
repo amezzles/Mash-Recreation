@@ -5,6 +5,8 @@ using System.Collections;
 public class GameManager : MonoBehaviour
 {
     public TextManager textManager;
+    public AudioManager audioManager;
+
     public GameObject windGustPrefab;
 
     private bool inputEnabled = true;
@@ -37,16 +39,20 @@ public class GameManager : MonoBehaviour
     public void IncrementSoldiersInHelicopter()
     {
         textManager.IncrementSoldiersInHelicopter();
+        audioManager.PlaySoldierPickup();
     }
 
     public void IncrementSoldiersInHospital()
     {
         textManager.IncrementSoldiersInHospital();
+        audioManager.PlayHospitalDropOff();
     }
 
     public void GameOver()
     {
         textManager.GameOver();
+        audioManager.PlayTreeCollision();
+
         DisableInput();
         StartCoroutine(ResetGameAfterDelay(3f));
     }
@@ -54,6 +60,8 @@ public class GameManager : MonoBehaviour
     public void YouWin()
     {
         textManager.YouWin();
+        audioManager.PlayYouWin();
+
         DisableInput();
         StartCoroutine(ResetGameAfterDelay(3f));
     }
