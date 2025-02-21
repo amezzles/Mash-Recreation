@@ -1,0 +1,2483 @@
+fileFormatVersion: 2
+guid: 879cb7bfd8051034db46a829f98e3713
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3983846933466415812
+    second: BROWNROCK_Full_Tileset_V1_0
+  - first:
+      213: -5278388832033318518
+    second: BROWNROCK_Full_Tileset_V1_1
+  - first:
+      213: -5816132526604125380
+    second: BROWNROCK_Full_Tileset_V1_2
+  - first:
+      213: -4076143823597474161
+    second: BROWNROCK_Full_Tileset_V1_3
+  - first:
+      213: 6206607058078731634
+    second: BROWNROCK_Full_Tileset_V1_4
+  - first:
+      213: 5829145595536826493
+    second: BROWNROCK_Full_Tileset_V1_5
+  - first:
+      213: 9168501808595249807
+    second: BROWNROCK_Full_Tileset_V1_6
+  - first:
+      213: -301380770239550892
+    second: BROWNROCK_Full_Tileset_V1_7
+  - first:
+      213: -7964937765043383526
+    second: BROWNROCK_Full_Tileset_V1_8
+  - first:
+      213: -4519603705770751811
+    second: BROWNROCK_Full_Tileset_V1_9
+  - first:
+      213: 5851209788496038620
+    second: BROWNROCK_Full_Tileset_V1_10
+  - first:
+      213: 1806174236498085720
+    second: BROWNROCK_Full_Tileset_V1_11
+  - first:
+      213: -4110138657160420399
+    second: BROWNROCK_Full_Tileset_V1_12
+  - first:
+      213: -4898699345240605365
+    second: BROWNROCK_Full_Tileset_V1_13
+  - first:
+      213: 8410654746554054885
+    second: BROWNROCK_Full_Tileset_V1_14
+  - first:
+      213: -6428639532146455085
+    second: BROWNROCK_Full_Tileset_V1_15
+  - first:
+      213: 7179799228317677056
+    second: BROWNROCK_Full_Tileset_V1_16
+  - first:
+      213: -4867407674645370828
+    second: BROWNROCK_Full_Tileset_V1_17
+  - first:
+      213: 6260180121966106894
+    second: BROWNROCK_Full_Tileset_V1_18
+  - first:
+      213: 5427414924812473814
+    second: BROWNROCK_Full_Tileset_V1_19
+  - first:
+      213: -2908926683965504761
+    second: BROWNROCK_Full_Tileset_V1_20
+  - first:
+      213: 2658100397404965486
+    second: BROWNROCK_Full_Tileset_V1_21
+  - first:
+      213: 8648319718640137104
+    second: BROWNROCK_Full_Tileset_V1_22
+  - first:
+      213: 1319878566292837709
+    second: BROWNROCK_Full_Tileset_V1_23
+  - first:
+      213: 3093111944561237071
+    second: BROWNROCK_Full_Tileset_V1_24
+  - first:
+      213: 8844417362757459975
+    second: BROWNROCK_Full_Tileset_V1_25
+  - first:
+      213: -7546444359623373615
+    second: BROWNROCK_Full_Tileset_V1_26
+  - first:
+      213: -3246671667923773089
+    second: BROWNROCK_Full_Tileset_V1_27
+  - first:
+      213: -7093085639681871810
+    second: BROWNROCK_Full_Tileset_V1_28
+  - first:
+      213: 8742496401022173905
+    second: BROWNROCK_Full_Tileset_V1_29
+  - first:
+      213: -6441670885751644681
+    second: BROWNROCK_Full_Tileset_V1_30
+  - first:
+      213: -1424559649569430198
+    second: BROWNROCK_Full_Tileset_V1_31
+  - first:
+      213: 7605433215911984752
+    second: BROWNROCK_Full_Tileset_V1_32
+  - first:
+      213: -6844456323585036558
+    second: BROWNROCK_Full_Tileset_V1_33
+  - first:
+      213: 3129733489351815193
+    second: BROWNROCK_Full_Tileset_V1_34
+  - first:
+      213: -3379426270008921002
+    second: BROWNROCK_Full_Tileset_V1_35
+  - first:
+      213: 6232684652651971992
+    second: BROWNROCK_Full_Tileset_V1_36
+  - first:
+      213: 7193237349367692357
+    second: BROWNROCK_Full_Tileset_V1_37
+  - first:
+      213: -687165437039356777
+    second: BROWNROCK_Full_Tileset_V1_38
+  - first:
+      213: 9169375363090934529
+    second: BROWNROCK_Full_Tileset_V1_39
+  - first:
+      213: 3540667424228492862
+    second: BROWNROCK_Full_Tileset_V1_40
+  - first:
+      213: 3965543896250796467
+    second: BROWNROCK_Full_Tileset_V1_41
+  - first:
+      213: -3598271677419464166
+    second: BROWNROCK_Full_Tileset_V1_42
+  - first:
+      213: -1791287615327721043
+    second: BROWNROCK_Full_Tileset_V1_43
+  - first:
+      213: -5221160960593229894
+    second: BROWNROCK_Full_Tileset_V1_44
+  - first:
+      213: 4860003908922003823
+    second: BROWNROCK_Full_Tileset_V1_45
+  - first:
+      213: 5523659053221311488
+    second: BROWNROCK_Full_Tileset_V1_46
+  - first:
+      213: -8320670597027485841
+    second: BROWNROCK_Full_Tileset_V1_47
+  - first:
+      213: 7077629701866291080
+    second: BROWNROCK_Full_Tileset_V1_48
+  - first:
+      213: -7080238900173678891
+    second: BROWNROCK_Full_Tileset_V1_49
+  - first:
+      213: -3920299707517304597
+    second: BROWNROCK_Full_Tileset_V1_50
+  - first:
+      213: 2043530426988436821
+    second: BROWNROCK_Full_Tileset_V1_51
+  - first:
+      213: 7790389482274470863
+    second: BROWNROCK_Full_Tileset_V1_52
+  - first:
+      213: -1345867440117750121
+    second: BROWNROCK_Full_Tileset_V1_53
+  - first:
+      213: 6140444858566061545
+    second: BROWNROCK_Full_Tileset_V1_54
+  - first:
+      213: 3300953005442112279
+    second: BROWNROCK_Full_Tileset_V1_55
+  - first:
+      213: 914321428852422508
+    second: BROWNROCK_Full_Tileset_V1_56
+  - first:
+      213: -3605479998344043831
+    second: BROWNROCK_Full_Tileset_V1_57
+  - first:
+      213: -8007660112396965715
+    second: BROWNROCK_Full_Tileset_V1_58
+  - first:
+      213: -1985190333108716745
+    second: BROWNROCK_Full_Tileset_V1_59
+  - first:
+      213: -3348368311176648367
+    second: BROWNROCK_Full_Tileset_V1_60
+  - first:
+      213: -3316331961896292499
+    second: BROWNROCK_Full_Tileset_V1_61
+  - first:
+      213: -1072715244359391770
+    second: BROWNROCK_Full_Tileset_V1_62
+  - first:
+      213: -8772711453918534405
+    second: BROWNROCK_Full_Tileset_V1_63
+  - first:
+      213: 3860456350739486188
+    second: BROWNROCK_Full_Tileset_V1_64
+  - first:
+      213: -3040829300777061514
+    second: BROWNROCK_Full_Tileset_V1_65
+  - first:
+      213: 7720486224591685783
+    second: BROWNROCK_Full_Tileset_V1_66
+  - first:
+      213: 1874295411390370061
+    second: BROWNROCK_Full_Tileset_V1_67
+  - first:
+      213: -4798962334443079514
+    second: BROWNROCK_Full_Tileset_V1_68
+  - first:
+      213: -6240289985420295833
+    second: BROWNROCK_Full_Tileset_V1_69
+  - first:
+      213: 6074094347613680985
+    second: BROWNROCK_Full_Tileset_V1_70
+  - first:
+      213: 6544361092866851856
+    second: BROWNROCK_Full_Tileset_V1_71
+  - first:
+      213: -6690940756698205463
+    second: BROWNROCK_Full_Tileset_V1_72
+  - first:
+      213: -2505497772618128748
+    second: BROWNROCK_Full_Tileset_V1_73
+  - first:
+      213: -7617293362847433993
+    second: BROWNROCK_Full_Tileset_V1_74
+  - first:
+      213: 7197169362953422227
+    second: BROWNROCK_Full_Tileset_V1_75
+  - first:
+      213: 8159912290312068714
+    second: BROWNROCK_Full_Tileset_V1_76
+  - first:
+      213: -563084674819023436
+    second: BROWNROCK_Full_Tileset_V1_77
+  - first:
+      213: -2592364651808191712
+    second: BROWNROCK_Full_Tileset_V1_78
+  - first:
+      213: 7853510293747833746
+    second: BROWNROCK_Full_Tileset_V1_79
+  - first:
+      213: 8499182756835406523
+    second: BROWNROCK_Full_Tileset_V1_80
+  - first:
+      213: 6636203215161235143
+    second: BROWNROCK_Full_Tileset_V1_81
+  - first:
+      213: -4215411089527884865
+    second: BROWNROCK_Full_Tileset_V1_82
+  - first:
+      213: 8300530200572302767
+    second: BROWNROCK_Full_Tileset_V1_83
+  - first:
+      213: -8505236467551509397
+    second: BROWNROCK_Full_Tileset_V1_84
+  - first:
+      213: 5785012337957109028
+    second: BROWNROCK_Full_Tileset_V1_85
+  - first:
+      213: -4202289307176170129
+    second: BROWNROCK_Full_Tileset_V1_86
+  - first:
+      213: -4515094137286657023
+    second: BROWNROCK_Full_Tileset_V1_87
+  - first:
+      213: -3288696808490994933
+    second: BROWNROCK_Full_Tileset_V1_88
+  - first:
+      213: -4413596782349884761
+    second: BROWNROCK_Full_Tileset_V1_89
+  - first:
+      213: -4330268407561925901
+    second: BROWNROCK_Full_Tileset_V1_90
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 831
+        width: 98
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c28bccbda7794730800000000000000
+      internalID: 3983846933466415812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_1
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 863
+        width: 127
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89d348c2556fb6b0800000000000000
+      internalID: -5278388832033318518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_2
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 959
+        width: 258
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b7a214842f84fa0800000000000000
+      internalID: -5816132526604125380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_3
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 747
+        width: 252
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ee11de9c0ae67c0800000000000000
+      internalID: -4076143823597474161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_4
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 847
+        width: 98
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d073d3c3c422650800000000000000
+      internalID: 6206607058078731634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_5
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 866
+        width: 161
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d706106f80945e050800000000000000
+      internalID: 5829145595536826493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_6
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 847
+        width: 98
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8aa8df61df0d3f70800000000000000
+      internalID: 9168501808595249807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_7
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 866
+        width: 161
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45aecb749c741dbf0800000000000000
+      internalID: -301380770239550892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_8
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 898
+        width: 77
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13de708d4bd67190800000000000000
+      internalID: -7964937765043383526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 928
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8ceff10642741c0800000000000000
+      internalID: -4519603705770751811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_10
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 932
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda48953d4ca33150800000000000000
+      internalID: 5851209788496038620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_11
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 948
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8574ee806e1d01910800000000000000
+      internalID: 1806174236498085720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_12
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 915
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d32a52faaad5f6c0800000000000000
+      internalID: -4110138657160420399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_13
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 896
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4dbe7166e2540cb0800000000000000
+      internalID: -4898699345240605365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_14
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 896
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8bec03ee5a8b470800000000000000
+      internalID: 8410654746554054885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 863
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd8069e762e8c6a0800000000000000
+      internalID: -6428639532146455085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_16
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 863
+        width: 31
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006bf72ab55c3a360800000000000000
+      internalID: 7179799228317677056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_17
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 863
+        width: 128
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438a0cf228e737cb0800000000000000
+      internalID: -4867407674645370828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_18
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 872
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0950cf27a0a0e650800000000000000
+      internalID: 6260180121966106894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_19
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 879
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5d9125e1d025b40800000000000000
+      internalID: 5427414924812473814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_20
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 877
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703c494d79a61a7d0800000000000000
+      internalID: -2908926683965504761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 863
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ac5ac6a3873e420800000000000000
+      internalID: 2658100397404965486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_22
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 863
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0933d8d96f0050870800000000000000
+      internalID: 8648319718640137104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_23
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 859
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4559822096215210800000000000000
+      internalID: 1319878566292837709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_24
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 870
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c1712fce0fcea20800000000000000
+      internalID: 3093111944561237071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_25
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 865
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700a4705bbeadba70800000000000000
+      internalID: 8844417362757459975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_26
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 846
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc066376d4a54790800000000000000
+      internalID: -7546444359623373615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_27
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 853
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f591413d15181f2d0800000000000000
+      internalID: -3246671667923773089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_28
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 845
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e307655013c409d90800000000000000
+      internalID: -7093085639681871810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_29
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 856
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2ce013826935970800000000000000
+      internalID: 8742496401022173905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_30
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 835
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd1cc675769a96a0800000000000000
+      internalID: -6441670885751644681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_31
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 767
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a452f0edb82fa3ce0800000000000000
+      internalID: -1424559649569430198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_32
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 704
+        width: 159
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ef36de63deb8960800000000000000
+      internalID: 7605433215911984752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_33
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 704
+        width: 314
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fea908bc3b9301a0800000000000000
+      internalID: -6844456323585036558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_34
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 704
+        width: 157
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910757ac60c0f6b20800000000000000
+      internalID: 3129733489351815193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_35
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 841
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654be7f56bdd911d0800000000000000
+      internalID: -3379426270008921002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_36
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 843
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895895e5ba1fe7650800000000000000
+      internalID: 6232684652651971992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_37
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 832
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c3222024383d360800000000000000
+      internalID: 7193237349367692357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_38
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 767
+        width: 57
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794d75ffca2b676f0800000000000000
+      internalID: -687165437039356777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_39
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 735
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10be041bf4a204f70800000000000000
+      internalID: 9169375363090934529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_40
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 813
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36cfe8534af22130800000000000000
+      internalID: 3540667424228492862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_41
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 817
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b94f3dc921780730800000000000000
+      internalID: 3965543896250796467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_42
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 809
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a501e49fe501ec0800000000000000
+      internalID: -3598271677419464166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_43
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 812
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9a5dd87611427e0800000000000000
+      internalID: -1791287615327721043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_44
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 767
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab704bce4c5ba87b0800000000000000
+      internalID: -5221160960593229894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_45
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 767
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f615e464ec3327340800000000000000
+      internalID: 4860003908922003823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_46
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 799
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00470afa4aaf7ac40800000000000000
+      internalID: 5523659053221311488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_47
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 799
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67a3234d2a078c80800000000000000
+      internalID: -8320670597027485841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_48
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 806
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f7e7707bac83260800000000000000
+      internalID: 7077629701866291080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_49
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 801
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6de36ab30fdbd90800000000000000
+      internalID: -7080238900173678891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_50
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 671
+        width: 98
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be00d58cf2c4899c0800000000000000
+      internalID: -3920299707517304597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_51
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 788
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d1954a8141c5c10800000000000000
+      internalID: 2043530426988436821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_52
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 781
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcbb8e875f50d1c60800000000000000
+      internalID: 7790389482274470863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_53
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 768
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7966405a1b4825de0800000000000000
+      internalID: -1345867440117750121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_54
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 771
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed24bdb01e373550800000000000000
+      internalID: 6140444858566061545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_55
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 775
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b92ade4475fcd20800000000000000
+      internalID: 3300953005442112279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_56
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 768
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67b649ce7250bc00800000000000000
+      internalID: 914321428852422508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 739
+        width: 65
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c26ded4b03c6fdc0800000000000000
+      internalID: -3605479998344043831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_58
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 738
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8a38edd831fd090800000000000000
+      internalID: -8007660112396965715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_59
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 614
+        width: 258
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73bf387f8ef2374e0800000000000000
+      internalID: -1985190333108716745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_60
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 543
+        width: 98
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159242be2c43881d0800000000000000
+      internalID: -3348368311176648367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_61
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 543
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6fa5edb6a50af1d0800000000000000
+      internalID: -3316331961896292499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_62
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 595
+        width: 130
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5efc23b23fc11f0800000000000000
+      internalID: -1072715244359391770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_63
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 607
+        width: 194
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf46f289961114680800000000000000
+      internalID: -8772711453918534405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_64
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 614
+        width: 53
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce55ab0f898139530800000000000000
+      internalID: 3860456350739486188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_65
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 412
+        width: 219
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6737598acddccc5d0800000000000000
+      internalID: -3040829300777061514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_66
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 575
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798851ef05da42b60800000000000000
+      internalID: 7720486224591685783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_67
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 555
+        width: 106
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0151180fb5d20a10800000000000000
+      internalID: 1874295411390370061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_68
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 556
+        width: 91
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a87a0dce29a66db0800000000000000
+      internalID: -4798962334443079514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_69
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 455
+        width: 65
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761889b12590669a0800000000000000
+      internalID: -6240289985420295833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_70
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 555
+        width: 106
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955b8b190a48b4450800000000000000
+      internalID: 6074094347613680985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_71
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 556
+        width: 91
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014473e8dbd32da50800000000000000
+      internalID: 6544361092866851856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_72
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 455
+        width: 65
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2f1d7f4d00523a0800000000000000
+      internalID: -6690940756698205463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_73
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 415
+        width: 101
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492609dec0faa3dd0800000000000000
+      internalID: -2505497772618128748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_74
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 415
+        width: 32
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fab98d6b00f94690800000000000000
+      internalID: -7617293362847433993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_75
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 68
+        width: 515
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395c923476b71e360800000000000000
+      internalID: 7197169362953422227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_76
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 533
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e1566bef4dd3170800000000000000
+      internalID: 8159912290312068714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_77
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 358
+        width: 221
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd12fab8758f28f0800000000000000
+      internalID: -563084674819023436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_78
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 358
+        width: 221
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b81b88512160cd0800000000000000
+      internalID: -2592364651808191712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_79
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 415
+        width: 81
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b96b2a0064dfc60800000000000000
+      internalID: 7853510293747833746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_80
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 470
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2bc4ecfa923f570800000000000000
+      internalID: 8499182756835406523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_81
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 460
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c69df00aa7881c50800000000000000
+      internalID: 6636203215161235143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_82
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 460
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3b272c2f9df75c0800000000000000
+      internalID: -4215411089527884865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_83
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 65
+        width: 386
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa593844d38613370800000000000000
+      internalID: 8300530200572302767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_84
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 396
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64e4e4de7457f980800000000000000
+      internalID: -8505236467551509397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_85
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 31
+        width: 642
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d7f21321e784050800000000000000
+      internalID: 5785012337957109028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_86
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 361
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d875ac3287ea5c0800000000000000
+      internalID: -4202289307176170129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_87
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 396
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c749bddc92751c0800000000000000
+      internalID: -4515094137286657023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_88
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 361
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03feeb4da33c52d0800000000000000
+      internalID: -3288696808490994933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_89
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 160
+        width: 258
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a26a365c11cfb2c0800000000000000
+      internalID: -4413596782349884761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Full_Tileset_V1_90
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 31
+        width: 144
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3facc2973dbc7e3c0800000000000000
+      internalID: -4330268407561925901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BROWNROCK_Full_Tileset_V1_0: 3983846933466415812
+      BROWNROCK_Full_Tileset_V1_1: -5278388832033318518
+      BROWNROCK_Full_Tileset_V1_10: 5851209788496038620
+      BROWNROCK_Full_Tileset_V1_11: 1806174236498085720
+      BROWNROCK_Full_Tileset_V1_12: -4110138657160420399
+      BROWNROCK_Full_Tileset_V1_13: -4898699345240605365
+      BROWNROCK_Full_Tileset_V1_14: 8410654746554054885
+      BROWNROCK_Full_Tileset_V1_15: -6428639532146455085
+      BROWNROCK_Full_Tileset_V1_16: 7179799228317677056
+      BROWNROCK_Full_Tileset_V1_17: -4867407674645370828
+      BROWNROCK_Full_Tileset_V1_18: 6260180121966106894
+      BROWNROCK_Full_Tileset_V1_19: 5427414924812473814
+      BROWNROCK_Full_Tileset_V1_2: -5816132526604125380
+      BROWNROCK_Full_Tileset_V1_20: -2908926683965504761
+      BROWNROCK_Full_Tileset_V1_21: 2658100397404965486
+      BROWNROCK_Full_Tileset_V1_22: 8648319718640137104
+      BROWNROCK_Full_Tileset_V1_23: 1319878566292837709
+      BROWNROCK_Full_Tileset_V1_24: 3093111944561237071
+      BROWNROCK_Full_Tileset_V1_25: 8844417362757459975
+      BROWNROCK_Full_Tileset_V1_26: -7546444359623373615
+      BROWNROCK_Full_Tileset_V1_27: -3246671667923773089
+      BROWNROCK_Full_Tileset_V1_28: -7093085639681871810
+      BROWNROCK_Full_Tileset_V1_29: 8742496401022173905
+      BROWNROCK_Full_Tileset_V1_3: -4076143823597474161
+      BROWNROCK_Full_Tileset_V1_30: -6441670885751644681
+      BROWNROCK_Full_Tileset_V1_31: -1424559649569430198
+      BROWNROCK_Full_Tileset_V1_32: 7605433215911984752
+      BROWNROCK_Full_Tileset_V1_33: -6844456323585036558
+      BROWNROCK_Full_Tileset_V1_34: 3129733489351815193
+      BROWNROCK_Full_Tileset_V1_35: -3379426270008921002
+      BROWNROCK_Full_Tileset_V1_36: 6232684652651971992
+      BROWNROCK_Full_Tileset_V1_37: 7193237349367692357
+      BROWNROCK_Full_Tileset_V1_38: -687165437039356777
+      BROWNROCK_Full_Tileset_V1_39: 9169375363090934529
+      BROWNROCK_Full_Tileset_V1_4: 6206607058078731634
+      BROWNROCK_Full_Tileset_V1_40: 3540667424228492862
+      BROWNROCK_Full_Tileset_V1_41: 3965543896250796467
+      BROWNROCK_Full_Tileset_V1_42: -3598271677419464166
+      BROWNROCK_Full_Tileset_V1_43: -1791287615327721043
+      BROWNROCK_Full_Tileset_V1_44: -5221160960593229894
+      BROWNROCK_Full_Tileset_V1_45: 4860003908922003823
+      BROWNROCK_Full_Tileset_V1_46: 5523659053221311488
+      BROWNROCK_Full_Tileset_V1_47: -8320670597027485841
+      BROWNROCK_Full_Tileset_V1_48: 7077629701866291080
+      BROWNROCK_Full_Tileset_V1_49: -7080238900173678891
+      BROWNROCK_Full_Tileset_V1_5: 5829145595536826493
+      BROWNROCK_Full_Tileset_V1_50: -3920299707517304597
+      BROWNROCK_Full_Tileset_V1_51: 2043530426988436821
+      BROWNROCK_Full_Tileset_V1_52: 7790389482274470863
+      BROWNROCK_Full_Tileset_V1_53: -1345867440117750121
+      BROWNROCK_Full_Tileset_V1_54: 6140444858566061545
+      BROWNROCK_Full_Tileset_V1_55: 3300953005442112279
+      BROWNROCK_Full_Tileset_V1_56: 914321428852422508
+      BROWNROCK_Full_Tileset_V1_57: -3605479998344043831
+      BROWNROCK_Full_Tileset_V1_58: -8007660112396965715
+      BROWNROCK_Full_Tileset_V1_59: -1985190333108716745
+      BROWNROCK_Full_Tileset_V1_6: 9168501808595249807
+      BROWNROCK_Full_Tileset_V1_60: -3348368311176648367
+      BROWNROCK_Full_Tileset_V1_61: -3316331961896292499
+      BROWNROCK_Full_Tileset_V1_62: -1072715244359391770
+      BROWNROCK_Full_Tileset_V1_63: -8772711453918534405
+      BROWNROCK_Full_Tileset_V1_64: 3860456350739486188
+      BROWNROCK_Full_Tileset_V1_65: -3040829300777061514
+      BROWNROCK_Full_Tileset_V1_66: 7720486224591685783
+      BROWNROCK_Full_Tileset_V1_67: 1874295411390370061
+      BROWNROCK_Full_Tileset_V1_68: -4798962334443079514
+      BROWNROCK_Full_Tileset_V1_69: -6240289985420295833
+      BROWNROCK_Full_Tileset_V1_7: -301380770239550892
+      BROWNROCK_Full_Tileset_V1_70: 6074094347613680985
+      BROWNROCK_Full_Tileset_V1_71: 6544361092866851856
+      BROWNROCK_Full_Tileset_V1_72: -6690940756698205463
+      BROWNROCK_Full_Tileset_V1_73: -2505497772618128748
+      BROWNROCK_Full_Tileset_V1_74: -7617293362847433993
+      BROWNROCK_Full_Tileset_V1_75: 7197169362953422227
+      BROWNROCK_Full_Tileset_V1_76: 8159912290312068714
+      BROWNROCK_Full_Tileset_V1_77: -563084674819023436
+      BROWNROCK_Full_Tileset_V1_78: -2592364651808191712
+      BROWNROCK_Full_Tileset_V1_79: 7853510293747833746
+      BROWNROCK_Full_Tileset_V1_8: -7964937765043383526
+      BROWNROCK_Full_Tileset_V1_80: 8499182756835406523
+      BROWNROCK_Full_Tileset_V1_81: 6636203215161235143
+      BROWNROCK_Full_Tileset_V1_82: -4215411089527884865
+      BROWNROCK_Full_Tileset_V1_83: 8300530200572302767
+      BROWNROCK_Full_Tileset_V1_84: -8505236467551509397
+      BROWNROCK_Full_Tileset_V1_85: 5785012337957109028
+      BROWNROCK_Full_Tileset_V1_86: -4202289307176170129
+      BROWNROCK_Full_Tileset_V1_87: -4515094137286657023
+      BROWNROCK_Full_Tileset_V1_88: -3288696808490994933
+      BROWNROCK_Full_Tileset_V1_89: -4413596782349884761
+      BROWNROCK_Full_Tileset_V1_9: -4519603705770751811
+      BROWNROCK_Full_Tileset_V1_90: -4330268407561925901
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

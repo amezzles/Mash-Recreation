@@ -45,4 +45,9 @@ public class HelicopterMovement : MonoBehaviour
         // Move the helicopter
         rb.linearVelocity = moveInput * moveSpeed;
     }
+
+    public void ApplyWindForce(Vector2 force)
+    {
+        rb.AddForce(force, ForceMode2D.Impulse);
+    }
 }

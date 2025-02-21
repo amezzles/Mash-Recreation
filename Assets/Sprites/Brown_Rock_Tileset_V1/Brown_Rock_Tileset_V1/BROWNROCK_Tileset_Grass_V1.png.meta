@@ -1,0 +1,667 @@
+fileFormatVersion: 2
+guid: 6616f01b97de7fa4ead93a7b87f70c4c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3412618207828642356
+    second: BROWNROCK_Tileset_Grass_V1_0
+  - first:
+      213: -5494351785365348211
+    second: BROWNROCK_Tileset_Grass_V1_1
+  - first:
+      213: -995169869218481028
+    second: BROWNROCK_Tileset_Grass_V1_2
+  - first:
+      213: 5325100491815877623
+    second: BROWNROCK_Tileset_Grass_V1_3
+  - first:
+      213: -4336459842835624334
+    second: BROWNROCK_Tileset_Grass_V1_4
+  - first:
+      213: 7779796089004079465
+    second: BROWNROCK_Tileset_Grass_V1_5
+  - first:
+      213: 8593013500250181395
+    second: BROWNROCK_Tileset_Grass_V1_6
+  - first:
+      213: 8060719488664222648
+    second: BROWNROCK_Tileset_Grass_V1_7
+  - first:
+      213: 3256648607916909793
+    second: BROWNROCK_Tileset_Grass_V1_8
+  - first:
+      213: -1266620494592717517
+    second: BROWNROCK_Tileset_Grass_V1_9
+  - first:
+      213: 6288346784369238805
+    second: BROWNROCK_Tileset_Grass_V1_10
+  - first:
+      213: 8734849963211954871
+    second: BROWNROCK_Tileset_Grass_V1_11
+  - first:
+      213: 8768919150452939182
+    second: BROWNROCK_Tileset_Grass_V1_12
+  - first:
+      213: 6747894711399072414
+    second: BROWNROCK_Tileset_Grass_V1_13
+  - first:
+      213: -2495679359647381175
+    second: BROWNROCK_Tileset_Grass_V1_14
+  - first:
+      213: 5730780820363698644
+    second: BROWNROCK_Tileset_Grass_V1_15
+  - first:
+      213: 5767245935236372050
+    second: BROWNROCK_Tileset_Grass_V1_16
+  - first:
+      213: 847801475378948510
+    second: BROWNROCK_Tileset_Grass_V1_17
+  - first:
+      213: -7756691296178993842
+    second: BROWNROCK_Tileset_Grass_V1_18
+  - first:
+      213: -1363261223543132832
+    second: BROWNROCK_Tileset_Grass_V1_19
+  - first:
+      213: 855455732931805897
+    second: BROWNROCK_Tileset_Grass_V1_20
+  - first:
+      213: 8944182980219254331
+    second: BROWNROCK_Tileset_Grass_V1_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BROWNROCK_Tileset_Grass_V1_0
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 831
+        width: 98
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a08afdd2e0c5f20800000000000000
+      internalID: 3412618207828642356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Tileset_Grass_V1_1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 850
+        width: 161
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80e34a592420c3b0800000000000000
+      internalID: -5494351785365348211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Tileset_Grass_V1_2
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 831
+        width: 98
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c7f0ec6427032f0800000000000000
+      internalID: -995169869218481028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Tileset_Grass_V1_3
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 850
+        width: 161
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb71f70fae86e940800000000000000
+      internalID: 5325100491815877623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Tileset_Grass_V1_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 689
+        width: 159
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e490d9fbcc1d3c0800000000000000
+      internalID: -4336459842835624334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Tileset_Grass_V1_5
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 539
+        width: 106
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969bf06e25367fb60800000000000000
+      internalID: 7779796089004079465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Tileset_Grass_V1_6
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 688
+        width: 314
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f4c803044804770800000000000000
+      internalID: 8593013500250181395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Tileset_Grass_V1_7
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 439
+        width: 65
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb36ebdaad6ddf60800000000000000
+      internalID: 8060719488664222648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Tileset_Grass_V1_8
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 539
+        width: 106
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4682987a0f13d20800000000000000
+      internalID: 3256648607916909793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Tileset_Grass_V1_9
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 689
+        width: 157
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d429afe5f0c6ee0800000000000000
+      internalID: -1266620494592717517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Tileset_Grass_V1_10
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 439
+        width: 65
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5136cc25512b44750800000000000000
+      internalID: 6288346784369238805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Tileset_Grass_V1_11
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 342
+        width: 221
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba159723cb683970800000000000000
+      internalID: 8734849963211954871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Tileset_Grass_V1_12
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 540
+        width: 91
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea91ed2f18571b970800000000000000
+      internalID: 8768919150452939182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Tileset_Grass_V1_13
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 342
+        width: 221
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92cda6fc7655ad50800000000000000
+      internalID: 6747894711399072414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Tileset_Grass_V1_14
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 540
+        width: 91
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94981f658d09d5dd0800000000000000
+      internalID: -2495679359647381175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Tileset_Grass_V1_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 444
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1666b0bc2d78f40800000000000000
+      internalID: 5730780820363698644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Tileset_Grass_V1_16
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 444
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25654163f9f590050800000000000000
+      internalID: 5767245935236372050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Tileset_Grass_V1_17
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 380
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99a30433fef3cb00800000000000000
+      internalID: 847801475378948510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Tileset_Grass_V1_18
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 15
+        width: 642
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4503e2ec52ba5490800000000000000
+      internalID: -7756691296178993842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Tileset_Grass_V1_19
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 345
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06da5aad329b41de0800000000000000
+      internalID: -1363261223543132832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Tileset_Grass_V1_20
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 380
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2c87ae4703fdb00800000000000000
+      internalID: 855455732931805897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BROWNROCK_Tileset_Grass_V1_21
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 345
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36301e380f102c70800000000000000
+      internalID: 8944182980219254331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
